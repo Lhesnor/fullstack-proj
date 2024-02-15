@@ -1,0 +1,1 @@
+export const serverUrl = "memery-api-eu.onrender.com"

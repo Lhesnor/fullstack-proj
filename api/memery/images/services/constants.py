@@ -1,0 +1,7 @@
+LATEST_IMAGES_NUM = 10
+
+MINIMAL_TEXT_SIMILARITY_INDEX = 50
+
+VALID_EXTENSIONS = ("jpg", "jpeg", "png")
+
+TESSERACT_PATH = r"tesseract"
