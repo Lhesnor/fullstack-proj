@@ -1,6 +1,4 @@
 import React from "react";
-import { githubURL } from "../constants";
-
 export function About(props) {
   return (
     <div className={"about-text"}>
