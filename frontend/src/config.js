@@ -1,1 +1,2 @@
-export const serverUrl = "memery-api-eu.onrender.com"
+export const serverUrl = "localhost:8000"
+
